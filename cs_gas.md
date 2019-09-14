@@ -1,6 +1,6 @@
 # CS催淚性毒氣
 
-![cs_gas_projectile](cs_gas_projectile.jpg)
+![cs gas projectile](cs_gas_projectile.jpg)
 
 ## 特性
 

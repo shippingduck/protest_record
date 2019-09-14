@@ -1,7 +1,7 @@
 # MP-6M5-CS 槍發式催淚性毒氣彈
 
-![cs_gas_projectile](cs_gas_projectile.jpg)
-![MP-6M5-CS_cross_section](MP-6M5-CS_cross_section.jpg)
+![cs gas projectile](cs_gas_projectile.jpg)
+![MP-6M5-CS cross section](MP-6M5-CS_cross_section.jpg)
 
 ## 基本資料<sup>[DS][SDS]</sup>
 
@@ -28,17 +28,17 @@
 
 ### 淋水滅熄
 
-![MP-6M5-CS_extinguished_with_water](MP-6M5-CS_extinguished_with_water.jpg)
+![MP-6M5-CS extinguished with water](MP-6M5-CS_extinguished_with_water.jpg)
 
-[香港示威者滅熄毒氣彈](https://twitter.com/nvanderklippe/status/1138747496941756416)
+[香港示威者滅熄毒氣彈影片](https://twitter.com/nvanderklippe/status/1138747496941756416)
 
 毒氣彈著地後**立即**於中間排氣孔淋水，只需保持排氣孔表面有水覆蓋，使內裡粉末吸收水份飽和數秒，降溫熄滅。
 
 ### 水桶
 
-![Turkey_protester_deal_with_cs_grenade.jpg]
+![Turkey_protester deal with cs grenade](Turkey_protester_deal_with_cs_grenade.jpg)
 
-[土耳其示威者應付毒氣彈](https://www.youtube.com/watch?v=piiKEd-NZyg)
+[土耳其示威者應付毒氣彈影片](https://www.youtube.com/watch?v=piiKEd-NZyg)
 
 丟入大水桶中，以水覆蓋，封密水桶直至毒氣彈降溫熄滅。一個水桶雖可同時處理多個毒氣彈，但此方法需要大量水和水桶，機動性亦極低，收集運動毒氣彈需時不少，丟入水桶時已釋放完大部份毒氣。
 
