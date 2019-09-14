@@ -1,6 +1,6 @@
 This is the source code of a simple website recording equipments and tactics used by protests and supression around the world.
 
-[Index](index.md)
+[首頁Index](index.md)
 
 ## Presentation
 
